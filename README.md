@@ -1,2 +1,7 @@
-# Blog-Back-Up
-博客文件
+# 博客相册
+
+## 启动
+
+```pythpn
+python tool.py
+```
